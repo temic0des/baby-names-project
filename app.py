@@ -24,7 +24,7 @@ def main():
     print(f"Total sum for girls: {total_born_by_sex_girls}")
 
     # TODO: Check if your name occurs in the data
-    name = 'Tope'
+    name = 'Temitope'
     try:
         foundName = bn.check_name(name)
         if foundName:
